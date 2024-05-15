@@ -1,5 +1,5 @@
 # Startup-Analysis
-https://fu5y5sqgvdzs2e9tdmjnv8.streamlit.app/
+ Streamlit Website: https://fu5y5sqgvdzs2e9tdmjnv8.streamlit.app/
 
 # 📊 Startup Funding Analysis Dashboard
 
@@ -10,16 +10,15 @@ Welcome to the **Startup Funding Analysis Dashboard**! This interactive Streamli
 - **Overall Analysis**: Get an overview of total funding, maximum investments, average ticket sizes, and the number of funded startups.
 - **Startup Analysis**: Dive into detailed information about specific startups.
 - **Investor Analysis**: Explore detailed profiles of investors, including recent investments, preferred sectors, investment stages, and more.
-![Startup Funding Analysis Dashboard]("practice_streamlit/Dashboard.png")
-
+![img](https://github.com/mayurdalvi5/Startup-Analysis/blob/main/practice_streamlit/Dashboard.png)
 ## Installation
 
 To run this app locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/startup-funding-analysis.git
-    cd startup-funding-analysis
+    git clone https://github.com/mayurdalvi5/Startup-Analysis.git
+    cd Startup-Analysis
     ```
 
 2. **Install the required packages**:
@@ -58,7 +57,7 @@ Select an investor to view:
 - **Preferred Stages**: A pie chart showing the investment stages favored by the investor.
 - **Preferred Cities**: A pie chart of the cities where the investor predominantly invests.
 - **Year-on-Year Investment**: A line chart showing the investor’s funding trends over the years.
-
+    ![img](https://github.com/mayurdalvi5/Startup-Analysis/blob/main/practice_streamlit/investor.png)
 ## Data
 
 The data used in this dashboard is sourced from `startup_cleaned.csv`. It includes information such as:
@@ -75,13 +74,10 @@ The data used in this dashboard is sourced from `startup_cleaned.csv`. It includ
 
 We welcome contributions to enhance the features and functionality of this dashboard. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out at [your-email@example.com].
+If you have any questions, suggestions, or feedback, please feel free to reach out at [mayurdalvi.5@gmail.com].
 
 ---
 
